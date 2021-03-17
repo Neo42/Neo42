@@ -8,3 +8,4 @@
 ![Svelte](https://img.shields.io/badge/svelte%20-%23.svg?&style=for-the-badge&logo=svelte&logoColor=FFF&color=FF3E00)
 ![Reason](https://img.shields.io/badge/reason%20-%23.svg?&style=for-the-badge&logo=reason&logoColor=FFF&color=DD4B39) 
 ![MobX](https://img.shields.io/badge/mobx%20-%23.svg?&style=for-the-badge&logo=mobx&logoColor=white&color=FF9955)
+![XState](https://img.shields.io/badge/xstate%20-%23.svg?&style=for-the-badge&logo=xstate&logoColor=white&color=2C3E50)
