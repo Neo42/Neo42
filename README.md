@@ -8,10 +8,9 @@ Check out my writing and stuff: [neo42.cc](https://neo42.cc/)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![React](https://img.shields.io/badge/react%20-%23.svg?&style=for-the-badge&logo=react&logoColor=black&color=61DAFB)
 ![Svelte](https://img.shields.io/badge/svelte%20-%23.svg?&style=for-the-badge&logo=svelte&logoColor=FFF&color=FF3E00)
-![Reason](https://img.shields.io/badge/reason%20-%23.svg?&style=for-the-badge&logo=reason&logoColor=FFF&color=DD4B39) 
 ![MobX](https://img.shields.io/badge/mobx%20-%23.svg?&style=for-the-badge&logo=mobx&logoColor=white&color=FF9955)
 ![XState](https://img.shields.io/badge/xstate%20-%23.svg?&style=for-the-badge&logo=xstate&logoColor=white&color=black)
-
+![TypeScript](https://img.shields.io/badge/typescript%20-%23.svg?&style=for-the-badge&logo=typescript&logoColor=FFF&color=3178C6)
 
 ![Neo42's GitHub stats](https://github-readme-stats.vercel.app/api?username=neo42&show_icons=false&theme=graywhite&count_private=true&hide_rank=true&hide_stars=true&disable_animations=true&hide_title=true&hide=stars)
 
