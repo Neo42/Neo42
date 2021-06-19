@@ -2,8 +2,6 @@
 
 Welcome to my profile!
 
-Check out my writing and stuff: [neo42.cc](https://neo42.cc/)
-
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![React](https://img.shields.io/badge/react%20-%23.svg?&style=for-the-badge&logo=react&logoColor=black&color=61DAFB)
